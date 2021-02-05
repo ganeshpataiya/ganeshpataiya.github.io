@@ -1,0 +1,16 @@
+<div class="colorlib-narrow-content">
+ <div class="row">
+	<div class="col-md12 animate-box" data-animate-effect="fadeInLeft">
+	<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+		<span class="heading-meta"> Scholastics</span>      
+		<h2 class="colorlib-heading animate-box">Education</h2>
+		<strong>Master of Computer Application (MCA)</strong><br>
+		<span>Bhabha Engineering Research Institute (R.G.P.V. University), Bhopal year in 2009</span><br><br>
+		<strong>Post-Graduation Diploma in computer Application (PGDCA)  </strong><br>
+		Makhanlal Chaturvedi University Bhopal year in 2004 <br><br> 
+		<strong>B.Sc. (Mathematics)</strong><br>
+		<span>J.H. College, Betul affiliated by Barkat-Ullah University, Bhopal year in 2003</span>
+	</div>
+	</div>
+</div>
+</div>
